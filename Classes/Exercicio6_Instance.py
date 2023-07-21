@@ -1,4 +1,6 @@
 from Exercicio6 import Carro;
+import random;
+
 
 fiatUno = Carro("Uno");
 
